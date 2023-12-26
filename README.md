@@ -17,7 +17,7 @@ The "React Native Portfolio" project serves as a showcase of my skills and exper
 
 ### Plugins
 
-- **Babel Module Resolver**: Enhances project organization by allowing the mapping of module aliases, simplifying import paths - https://styled-components.com.
+- **Babel Module Resolver**: Enhances project organization by allowing the mapping of module aliases, simplifying import paths - https://github.com/tleunen/babel-plugin-module-resolver.
 
 ### Development Tools
 
