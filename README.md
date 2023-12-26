@@ -14,6 +14,7 @@ The "React Native Portfolio" project serves as a showcase of my skills and exper
 ### Libraries
 
 - **Styled-components**: Offers a component-based approach to styling React Native components - https://styled-components.com.
+- **react-native-safe-area-context**: Ensures that content does not overlap with system-provided areas like the status bar and navigation bar - https://github.com/th3rdwave/react-native-safe-area-context.
 
 ### Plugins
 

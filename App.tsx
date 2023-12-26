@@ -1,12 +1,12 @@
-import { StatusBar } from "expo-status-bar";
-import { StyleSheet, Text, View } from "react-native";
-import { Container } from "./styles";
+import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
+
+import { Welcome } from "@screens/auth/WelcomeScreen";
 
 export default function App() {
   return (
-    <Container>
-      <Text>Open up App.js to start working on your app! </Text>
-      <StatusBar style="auto" />
-    </Container>
+    <SafeAreaProvider>
+      <SafeAreaView />
+      <Welcome />
+    </SafeAreaProvider>
   );
 }
